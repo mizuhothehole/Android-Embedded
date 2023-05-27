@@ -1,0 +1,5 @@
+Essentially, though, when the kernel boots, it will mount the RAM disk image and
+execute the /init found inside. That binary, in turn, will run the /init.rc script that will
+mount both the /system and /data images at their respective locations. 
+
+This is cited from the embedded Android wroten in 2013.
