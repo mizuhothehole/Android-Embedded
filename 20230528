@@ -10,3 +10,10 @@
 
 The Android Init Language consists of five broad classes of statements: Actions, Commands, Services, Options, and Imports.
 
+on <trigger>
+<command>
+<command>
+
+service <name> <pathname> [ <argument> ]*
+<option>
+<option>
