@@ -7,3 +7,6 @@
 [ro.qc.sdk.audio.fluencetype]: [fluencepro]
 [ro.system.build.version.sdk]: [28]
 [ro.vendor.build.version.sdk]: [28]
+
+The Android Init Language consists of five broad classes of statements: Actions, Commands, Services, Options, and Imports.
+
