@@ -1,0 +1,9 @@
+~ $ adb shell getprop | grep sdk
+[ro.bootimage.build.version.sdk]: [28]
+[ro.build.version.min_supported_target_sdk]: [23]
+[ro.build.version.preview_sdk]: [1]
+[ro.build.version.preview_sdk_fingerprint]: [9049062ccadb8a692212952393179260]
+[ro.build.version.sdk]: [28]
+[ro.qc.sdk.audio.fluencetype]: [fluencepro]
+[ro.system.build.version.sdk]: [28]
+[ro.vendor.build.version.sdk]: [28]
