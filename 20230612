@@ -1,0 +1,3 @@
+1. openAL layers: application, integration, development
+2. show stdout logs we can use logwrapper utility
+3. init.<device_name>.rc, the device_name refers to the proc/cpuinfo
